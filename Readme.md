@@ -1,6 +1,6 @@
 # How to create a custom exporter using XtraReport (AutoRowHeight, BestFit and FitToPage)
 
-*Interesting files*:
+*Files to look at*:
 
 * [PivotReportGenerator.cs](./CS/WebSite/App_Code/PivotReportGenerator.cs) ([VB](./VB/WebSite/App_Code/PivotReportGenerator.vb))
 * [Default.aspx](./CS/WebSite/Default.aspx) ([VB](./VB/WebSite/Default.aspx))
