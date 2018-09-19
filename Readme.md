@@ -15,3 +15,4 @@
 
 
 [DevExpress, Inc](https://www.devexpress.com)
+![Analytics](https://ga-beacon.appspot.com/UA-118635726-1/e2686?pixel)
