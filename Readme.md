@@ -1,8 +1,3 @@
----
-layout: post
-published-on: 1 January 2000
-title: Title goes here
----
 
 
 # How to create a custom exporter using XtraReport (AutoRowHeight, BestFit and FitToPage)
